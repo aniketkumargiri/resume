@@ -1,0 +1,120 @@
+* {
+  line-height: 1.3;
+  background-color: rgba(229, 229, 238, 0.103);
+}
+
+center .name {
+  color: blueviolet;
+  text-decoration: underline;
+  text-decoration-color: rgb(124, 42, 201);
+}
+
+.container {
+  display: flex;
+  margin-left: 80px;
+  margin-right: 130px;
+}
+
+.info {
+  width: 50%;
+}
+
+.info a {
+  text-decoration: none;
+}
+
+.acad {
+  color: blue;
+  margin-left: 80px;
+}
+
+.theory {
+  margin-left: 80px;
+  margin-right: 130px;
+}
+
+.theory p {
+  margin-left: 40px;
+  margin-right: 30px;
+  font-size: 18px;
+}
+
+.tabl {
+  margin-left: 80px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: 40px;
+}
+
+.sec {
+  font-size: 18px;
+  margin-left: 80px;
+  margin-right: 130px;
+}
+
+.skl {
+  color: blue;
+}
+.str {
+  color: blue;
+}
+
+.set {
+  display: flex;
+  margin-left: 80px;
+  margin-right: 130px;
+}
+
+.main {
+  width: 50%;
+}
+
+.career {
+  color: blue;
+  margin-left: 80px;
+  font-size: 18px;
+}
+
+.strength {
+  font-size: 18px;
+}
+
+.skills {
+  margin-left: 80px;
+  font-size: 18px;
+}
+
+footer {
+  font-size: 22px;
+  background-color: rgb(71, 39, 39);
+  color: #fff;
+  text-align: center;
+}
+
+fieldset {
+  color: blue;
+  font-size: 20px;
+  width: 80%;
+  margin-left: 80px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  padding-right: 0%;
+  padding-right: 3px;
+}
+
+textarea {
+  width: 101%;
+}
+
+.btn {
+  background-color: rgb(30, 241, 206);
+}
+
+.btn:hover {
+  background-color: rgb(198, 19, 243);
+}
